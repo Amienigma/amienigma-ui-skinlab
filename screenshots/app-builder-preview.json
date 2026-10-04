@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SkinLab",
+      "hasCanvas": false,
+      "bodyTextLen": 366,
+      "bodyTextHash": "d32c230b58b66cae4ce6ab8de60ffcebd5166be6c514bd33e119c9e487555ee5",
+      "bodyTextPrefix": "SkinLab Glowing spatial cards and Super Device chips Harmony One",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SkinLab",
+      "hasCanvas": false,
+      "bodyTextLen": 264,
+      "bodyTextHash": "1a3944a7450cd349a0e942a609387291234da4a669431d2d8e66009043c883ae",
+      "bodyTextPrefix": "SkinLab Harmony One UI iOS Lock Home Controls Alerts Apps Settin",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
